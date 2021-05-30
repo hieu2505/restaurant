@@ -130,7 +130,7 @@
        <!-- end container -->
       </div>
        <!-- end special -->
-       <section class="container">
+       <section class="container" style="width:1200px" id="us">
        <span class="section-text" id="us">Về Chúng Tôi</span> 
        <div class="row">
             <div class="about-item">
