@@ -51,7 +51,7 @@
  <header>
        <div class="bg-inner" id="home">
            <div class="banner">
-               <img src="images/dvd1.jpg"> 
+               <img src="images/dvd1.jpg" style="height: 665px"> 
                <div class="banner-cell">
                  <h1>WORLD OF MR.D</h1>
                  <h3></h3>
@@ -76,7 +76,7 @@
               </div>
               <!-- end col -->
               <div class="col-lg-6">
-                     <img class="img-fluid" src="images/nenphp.jpg" alt="Main Image">       
+                     <img class="img-fluid" src="images/nenphp.jpg" alt="Main Image" style="padding-top: 10px">       
               </div>
               <!-- end col -->
         </div>
